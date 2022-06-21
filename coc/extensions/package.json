@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "coc-fsharp": ">=0.3.5",
+    "coc-json": ">=1.4.2",
+    "coc-python": ">=1.2.13",
+    "coc-r-lsp": ">=1.2.1",
+    "coc-snippets": ">=3.0.10",
+    "coc-spell-checker": ">=1.2.0",
+    "coc-tsserver": ">=1.10.4",
+    "coc-vimlsp": ">=0.12.8",
+    "coc-vimtex": ">=1.1.5"
+  }
+}
